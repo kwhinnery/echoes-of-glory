@@ -238,63 +238,63 @@ exports.QUESTIONS = [
 
 exports.ARCHETYPES = [
   {
-    text: `🥇🥈🥉 Plunge for Distance. Last contested in 1904, you jump into a pool of water aiming for maximum dive depth.`,
+    text: `🥇🥈🥉 Sounds like you've got some fortitude and you're not afraid to use it, just like the turn-of-the-century competitors in the Plunge for Distance. Last contested in 1904, you jump into a pool of water aiming for maximum dive depth.`,
     stats: ['dexterity', 'constitution']
   },
   {
-    text: `🥇🥈🥉 Dueling Pistol. Last contested in 1906, competitors fired single shot pistols at a dummy dressed in a stylish period frock.`,
+    text: `🥇🥈🥉 Seems like you can judge a situation pretty well and react accordingly. Have you considered competitive Dueling Pistol? Last contested in 1906, competitors fired single shot pistols at a dummy dressed in a stylish period frock.`,
     stats: ['dexterity', 'charisma']
   },
   {
-    text: `🥇🥈🥉 Club Swinging. Last contested in 1932, you rhythmically swing two bowling pin-shaped clubs, often adorned with ribbons.`,
+    text: `🥇🥈🥉 Well look at you! With your strength, speed, and balance, maybe you should take a look at competitive Club Swinging. Last contested in 1932, you rhythmically swing two bowling pin-shaped clubs, often adorned with ribbons.`,
     stats: ['dexterity', 'strength']
   },
   {
-    text: `🥇🥈🥉 Solo Synchronized Swimming. Last contested in 1992, you need to synchronously swim with... yourself, I guess?`,
+    text: `🥇🥈🥉 Sounds like you might be a fast learner with good motor skills. If you also like the water, we recommend Solo Synchronized Swimming. Last contested in 1992, you need to synchronously swim with... yourself, I guess?`,
     stats: ['dexterity', 'intelligence']
   },
   {
-    text: `🥇🥈🥉 Jeu de Paume. Last contested in 1908, this sport of French aristocrats is played with wooden raquets and hard cork balls.`,
+    text: `🥇🥈🥉 With reflexes and foresight like you've got, you might want to try out Jeu de Paume. Last contested in 1908, this sport of French aristocrats is played with wooden raquets and hard cork balls.`,
     stats: ['dexterity', 'wisdom']
   },
   {
-    text: `🥇🥈🥉 Motor boating. Last contested in 1908, it was eliminated from the big games because it was not an athletic competition.`,
+    text: `🥇🥈🥉 You seem like someone who could guide a ship to safety, even if it was going super fast. Perhaps motor boating is the sport for you! Last contested in 1908, it was eliminated from the big games because it was not an athletic competition.`,
     stats: ['constitution', 'wisdom']
   },
   {
-    text: `🥇🥈🥉 Tug of War. Last contested in 1920, this schoolyard test of wills with a rope was played between two teams of eight, ending after one team pulled the other six feet.`,
+    text: `🥇🥈🥉 Woah, you've got energy! With your vital force, you may want to go from playground to professional with competitive Tug of War. Last contested in 1920, this schoolyard test of wills with a rope was played between two teams of eight, ending after one team pulled the other six feet.`,
     stats: ['constitution', 'strength']
   },
   {
-    text: `🥇🥈🥉 Skijoring. A demonstration sport last contested in 1928, this sport requires the athlete to be pulled by an animal on skis (in this case, a horse).`,
+    text: `🥇🥈🥉 You sound durable in both mind and body-- maybe even durable enough for the challenge of skijoring! A demonstration sport last contested in 1928, this sport requires the athlete to be pulled by an animal on skis (in this case, a horse).`,
     stats: ['constitution', 'intelligence']
   },
   {
-    text: `🥇🥈🥉 Sumo wrestling. First seen as a demonstration sport in 1964, these matches end after pushing your opponent outside a 15-foot ring.`,
+    text: `🥇🥈🥉 You've got strength of body and strength of character! Have you considered sumo wrestling? First seen as a demonstration sport in 1964, these matches end after pushing your opponent outside a 15-foot ring.`,
     stats: ['constitution', 'charisma']
   },
   {
-    text: `🥇🥈🥉 Angling. An unofficial competition from 1900, approximately 600 anglers fished for gold in the river Seine.`,
+    text: `🥇🥈🥉 You sound patient and reasonable. Maybe angling is the sport for you! An unofficial competition from 1900, approximately 600 anglers fished for gold in the river Seine.`,
     stats: ['strength', 'intelligence']
   },
   {
-    text: `🥇🥈🥉 Korfball. Last contested in 1928, Korfball is most frequently played by a mixed team of 4 men and 4 women, and resembles an outdoor fusion of basketball and football (soccer).`,
+    text: `🥇🥈🥉 Someone as strong and self-discipliend as you might want to try Korfball. Last contested in 1928, Korfball is most frequently played by a mixed team of 4 men and 4 women, and resembles an outdoor fusion of basketball and football (soccer).`,
     stats: ['strength', 'wisdom']
   },
   {
-    text: `🥇🥈🥉 Fire fighting. Last contested unofficially in 1900, professional and volunteer competitors were required to extinguish a fire and perform a rescue.`,
+    text: `🥇🥈🥉 You've got fortitude and motivation to spare! If it were the turn of the 20th century, you might try competitive fire fighting. Last contested unofficially in 1900, professional and volunteer competitors were required to extinguish a fire and perform a rescue.`,
     stats: ['strength', 'charisma']
   },
   {
-    text: `🥇🥈🥉 Pigeon Racing. An unofficial competition from 1900, 7,721 pigeons were released from 48 teams.`,
+    text: `🥇🥈🥉 You learn quickly and have great empathy. You might enjoy partnering with a bird friend in competitive Pigeon Racing! An unofficial competition from 1900, 7,721 pigeons were released from 48 teams.`,
     stats: ['wisdom', 'intelligence']
   },
   {
-    text: `🥇🥈🥉 Stone throw. Last contested in 1906, this competition differed from the modern shotput by allowing any style of throwing.`,
+    text: `🥇🥈🥉 With your foresight and strength of character, you could be a great fit for the Stone Throw. Last contested in 1906, this competition differed from the modern shotput by allowing any style of throwing.`,
     stats: ['wisdom', 'charisma']
   },
   {
-    text: `🥇🥈🥉 Arts competition. Discontinued in 1954, artists competed with architecture, literature, music, painting, and sculpture inspired by sport.`,
+    text: `🥇🥈🥉 You're a charismatic, intelligent creator who should try your hand at the Arts Competition. Discontinued in 1954, artists competed with architecture, literature, music, painting, and sculpture inspired by sport.`,
     stats: ['intelligence', 'charisma']
   },
 ];
